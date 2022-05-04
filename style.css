@@ -1,0 +1,43 @@
+.h1  {
+    color:blue
+    
+}
+
+.img {
+   border: solid
+}
+/*.a {
+   border: solid
+   
+}*/
+.first {
+
+    background-color:aquamarine;
+    border-color: blueviolet;
+    display:flex;
+    justify-content: space-between;
+
+}
+.second {
+
+    color:darkgoldenrod;
+    border-color:crimson;
+   
+}
+
+.games {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.social {
+   display:flex;
+   justify-content:flex-end; 
+}
+.site-description {
+display: flex;
+flex-direction: column;
+justify-content:first baseline;
+}
